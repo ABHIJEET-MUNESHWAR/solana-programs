@@ -1,3 +1,6 @@
 [submodule "associated-token-account"]
 	path = associated-token-account
 	url = https://github.com/ABHIJEET-MUNESHWAR/solana-programs
+[submodule "program-derived-address"]
+	path = program-derived-address
+	url = https://github.com/ABHIJEET-MUNESHWAR/solana-programs
